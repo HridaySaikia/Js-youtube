@@ -21,7 +21,7 @@ console.log(boolIsLoggedIn);
 // "wow" => true
 
 
-let someNumber = 33
+let someNumber = 43
 let stringNumber = String(someNumber);
 console.log(stringNumber);
 console.log(typeof stringNumber);
